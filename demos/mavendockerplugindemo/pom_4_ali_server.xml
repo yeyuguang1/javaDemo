@@ -23,7 +23,7 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>1.8</java.version>
 		<docker.repostory>registry.cn-shenzhen.aliyuncs.com</docker.repostory>
-		<docker.registry.name>bolingcavalry</docker.registry.name>
+		<docker.registry.name>yeyg</docker.registry.name>
 	</properties>
 
 	<dependencies>

@@ -46,7 +46,7 @@
 				<!--docker镜像相关的配置信息-->
 				<configuration>
 					<!--镜像名，要带上私有服务器IP和端口-->
-					<imageName>192.168.119.148:5000/${project.artifactId}:${project.version}</imageName>
+					<imageName>127.0.0.1:5000/${project.artifactId}:${project.version}</imageName>
 					<!--TAG,这里用工程版本号-->
 					<imageTags>
 						<imageTag>${project.version}</imageTag>

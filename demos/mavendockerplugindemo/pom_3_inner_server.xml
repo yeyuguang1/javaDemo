@@ -63,7 +63,7 @@
 							<include>${project.build.finalName}.jar</include>
 						</resource>
 					</resources>
-					<registryUrl>192.168.119.148:5000</registryUrl>
+					<registryUrl>127.0.0.1:5000</registryUrl>
 					<pushImage>true</pushImage>
 				</configuration>
 			</plugin>
